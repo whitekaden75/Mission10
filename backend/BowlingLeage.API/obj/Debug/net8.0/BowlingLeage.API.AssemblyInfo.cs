@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BowlingLeage.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80948952e5167b2632204b14fe5abb32e5960587")]
 [assembly: System.Reflection.AssemblyProductAttribute("BowlingLeage.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BowlingLeage.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
